@@ -1,25 +1,25 @@
 [![MasterHead](https://media.istockphoto.com/photos/-picture-id1319048433?b=1&k=20&m=1319048433&s=170667a&w=0&h=YWvFRRAUI86oKC4bsKNUF36CHaXwjBzDB3Pwww-D77E=)]
 
 <h1 align="center">Hi 👋, I'm Deelip KUMAR</h1>
-<h3 align="center">A passionate I am a data science enthusiast and also have experience in some real-world projects where I used all my knowledge and experience.</h3>
+<h3 align="center">A passionate I am a cyber security enthusiast and also have experience in some real-world projects where I used all my knowledge and experience.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dk929&label=Profile%20views&color=0e75b6&style=flat" alt="dk929" /> </p>
 
-- 🔭 I’m currently working on [Movie recomendar system](https://github.com/dk929/data_science_project/blob/main/movie%20recomendar.ipynb)
 
-- 🌱 I’m currently learning **Deep learning**
 
-- 👯 I’m looking to collaborate on **any type of data science, ML projects**
+- 🌱 I’m currently learning **CYBER_SECURITY**
+
+- 👯 I’m looking to collaborate on **any type of CYBER SECURITY projects**
 
 - 📝 I regularly write articles on [https://medium.com/@dk929411](https://medium.com/@dk929411)
 
-- 💬 Ask me about **Python, SQL, Data science, ML**
+- 💬 Ask me about **Python, SQL, CYBER_SECURITY**
 
 - 📫 How to reach me **dk929411@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oS1aIp3rAreH02LmgrTuzhjkCqdCNkG0/view?usp=sharing](https://drive.google.com/file/d/1oS1aIp3rAreH02LmgrTuzhjkCqdCNkG0/view?usp=sharing)
+  
 
 - ⚡ Fun fact **talking with stranger**
 
